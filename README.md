@@ -6,6 +6,6 @@ Survival table format based off of the MMP mod.
 # Usage
 
 python3 generateFiles.py [directory] [-tiers]
-- Directory is the path to a folder with the mods you want to add to survival, the script will automatically find all of the weapons in each mod. On Windows you can't access the quest directory with Python, so you will have to copy the mods to a folder on your local computer and use that as the directory.
+- Directory is the path to a folder with the mods you want to add to survival, the script will automatically find all of the weapons in each mod. On Windows you can't access the quest directory with Python, so you will have to copy the mods to a folder on your local computer and use that as the directory. The script will generate a folder called EasySurvival which you can add to your mods folder for the loot table to update.
 - -tiers is an optional flag to make the suvival tables based off of the tier of each weapon, as you get further in survival higher tiered weapons will spawn more often. By default all weapons have an equal chance of spawning at every wave. 
-* Note that with the -tier flag, if any tier does not have at least one weapon it may break survival. 
+* *Note that with the -tier flag, if any tier does not have at least one weapon it may break survival. 
