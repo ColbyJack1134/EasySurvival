@@ -6,10 +6,10 @@ if len(sys.argv) < 1:
     print("NEED A DIRECTORY")
     exit(0)
 dir = sys.argv[1]
-random=False
+random=True
 for arg in sys.argv:
-    if arg == "-random":
-        random=True
+    if arg == "-tiers":
+        random=False
 
 def getListOfFiles(dirName='./'):
     listOfFiles = os.listdir(dirName)
@@ -82,7 +82,7 @@ for i in range(5):
     with open('LootTable_AllTier%s.json'%(i), 'w') as f:
         f.write(json.dumps(lootTableContents, indent=4))
 
-#Write survivalrewards (if not exists)
+#Write survivalrewards
 for i in range(1,11):
     if random:
         fileContents = {}
