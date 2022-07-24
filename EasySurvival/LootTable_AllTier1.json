@@ -1,0 +1,173 @@
+{
+    "$type": "ThunderRoad.LootTable, Assembly-CSharp",
+    "id": "AllTier1",
+    "saveFolder": "Bas",
+    "version": 1,
+    "drops": [
+        {
+            "reference": 0,
+            "referenceID": "DarkSaber",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "JadeSwordMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "KukriK55MAMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "M48TomahawkMAMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ShortCombatKukriMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ShortMacheteMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ThrowingAxeMKPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "TomahawkMKPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ArmBladeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ChineseSwordMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "CleanShovelMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ClimberPickaxeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "CombatAxeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "CrimsonBladeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "FlamingoSickleMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "HuntingMacheteMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "IndustrialSwordMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "KukriMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "LightAxeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "MacheteMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "MetalBoStaffMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ModernAxeMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "RedCamoKukriMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "SaberOfDamascusSteelMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "SamuraiKatanaMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "ShabbyMacheteMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "SickleMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "SmallWoodcuttingAxeMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "TrenchShovelMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "UsedWakizashiMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "WeedCutterSickleMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "WoodenBoStaffMWPMrInsane27ID",
+            "probabilityWeight": 1.0
+        },
+        {
+            "reference": 0,
+            "referenceID": "TheElementalBlade(U11)",
+            "probabilityWeight": 1.0
+        }
+    ]
+}
